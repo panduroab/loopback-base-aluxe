@@ -1,0 +1,23 @@
+[
+    {
+        "firtsName": "Cristiano Ronaldo",
+        "lastName": "dos Santos Aveiro",
+        "username": "cr7",
+        "email": "cristiano@aluxe.io",
+        "password": "hola123"
+    },
+    {
+        "firtsName": "Joe",
+        "lastName": "Montana",
+        "username": "joecool",
+        "email": "joe@aluxe.io",
+        "password": "hola123"
+    },
+    {
+        "firtsName": "Kevin",
+        "lastName": "Durant",
+        "username": "kd",
+        "email": "kevin@aluxe.io",
+        "password": "hola123"
+    }
+]

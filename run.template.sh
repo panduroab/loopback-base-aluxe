@@ -1,0 +1,9 @@
+NODE_ENV=development \
+API_HOST=localhost \
+API_PORT=3000 \
+DB_HOST=localhost \
+DB_NAME=my-db-name \
+DB_USER=my-db-admin \
+DB_PASS=mydbpass \
+DB_PORT=27017 \
+node .

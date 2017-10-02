@@ -1,0 +1,21 @@
+{
+  "name": "Account",
+  "plural": "accounts",
+  "base": "User",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "firtsName": {
+      "type": "string"
+    },
+    "lastName": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
