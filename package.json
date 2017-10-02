@@ -1,5 +1,5 @@
 {
-  "name": "league-server",
+  "name": "loopback-base-aluxe",
   "version": "1.0.0",
   "main": "server/server.js",
   "engines": {
@@ -32,5 +32,5 @@
     "url": ""
   },
   "license": "UNLICENSED",
-  "description": "league-server"
+  "description": "loopback-base-aluxe"
 }
